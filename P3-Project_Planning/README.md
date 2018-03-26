@@ -8,8 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Wireframes for option 1 layout (basic)](https://github.com/ekw544/liftoff-assignments/blob/master/P3-Project_Planning/20180325_194644-1.jpg)
+* [Wireframes for option 2 layout](https://github.com/ekw544/liftoff-assignments/blob/master/P3-Project_Planning/20180325_194224-1.jpg)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[LiftOff Capstone - Pivotal Tracker project](https://www.pivotaltracker.com/n/projects/2158419)
