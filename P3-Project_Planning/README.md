@@ -13,4 +13,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-[LiftOff Capstone - Pivotal Tracker project](https://www.pivotaltracker.com/n/projects/2158419)
+[SalesProspects - Pivotal Tracker project](https://www.pivotaltracker.com/n/projects/2158419)
